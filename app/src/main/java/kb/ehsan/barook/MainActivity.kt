@@ -23,6 +23,7 @@ import kb.ehsan.barook.presentation.PoetsRout
 import kb.ehsan.barook.presentation.PoetsScreen
 import kb.ehsan.barook.ui.theme.BarookTheme
 
+@AndroidEntryPoint
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
